@@ -1,0 +1,9 @@
+#grid{
+    height: 500px;
+    width: 1000px;
+}
+.card{
+    height: 120px;
+    width: 300px;
+    margin: 2px;
+}
